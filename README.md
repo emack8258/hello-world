@@ -1,2 +1,3 @@
 # hello-world
-novice python script
+Use this as a tutorial to familiarize with GitHub 
+
